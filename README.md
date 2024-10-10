@@ -1,2 +1,2 @@
 # go-bookstore
- Project Golang: Book Store is manage book.
+ My project-backend Golang: Book Store is manage book.
